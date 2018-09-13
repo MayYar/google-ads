@@ -2,13 +2,13 @@
 
 ## Requirements
 1. **Setup yout client** </br>
-    Install the library
+    - Install the library
     ```
     pip install googleads
     curl https://raw.githubusercontent.com/googleads/googleads-python-lib/master/googleads.yaml -o ~/googleads.yaml
     ```
 2. **Setup your** ```~/googleads.yaml``` **file.** </br>
-    Fill in the following fields:
+    - Fill in the following fields:
     ```
     application_name: INSERT_APPLICATION_NAME_HERE
     network_code: INSERT_NETWORK_CODE_HERE
@@ -19,7 +19,7 @@
 ## Configuration
 - Create authentication credentials 
 - Configure Ad Manager network </br>
-  [How to figure out configuration?](https://developers.google.com/ad-manager/api/start)
+- [How to figure out configuration?](https://developers.google.com/ad-manager/api/start)
 
 ## Query data from Ad network
 1. Run save query
