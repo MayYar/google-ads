@@ -19,7 +19,7 @@
 ## Configuration
 - Create authentication credentials 
 - Configure Ad Manager network
- [How to figure out configuration?](https://developers.google.com/ad-manager/api/start)
+- [How to figure out configuration?](https://developers.google.com/ad-manager/api/start)
 
 ## Query data from Ad network
 1. Run save query
